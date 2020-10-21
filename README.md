@@ -1,5 +1,3 @@
-# RMITDeepLearningAssignment1
-
 # Head pose estimation using Deep Learning
 
 ## Introduction
